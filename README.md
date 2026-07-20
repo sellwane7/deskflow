@@ -25,7 +25,7 @@ cp .env.example .env      # then edit MONGO_URI / JWT_SECRET
 npm run seed                # creates demo Employee + Admin users
 npm run dev                 # starts on http://localhost:5000
 ```
-Swagger UI: **http://localhost:5000/api-docs**
+Swagger UI: **https://deskflow-api-rocc.onrender.com/api-docs**
 
 ### Frontend
 ```bash
