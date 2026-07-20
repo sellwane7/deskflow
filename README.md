@@ -60,7 +60,7 @@ npm start                   # starts on http://localhost:3000
 
 ## Project Demo
 
-**Live Demo:** deskflow-ebon.vercel.app
+Live Demo: **deskflow-ebon.vercel.app**
 
 ## Author
 
