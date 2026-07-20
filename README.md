@@ -57,3 +57,11 @@ npm start                   # starts on http://localhost:3000
 - **Postman collection** (`postman_collection.json`) — import into Postman; includes
   a `baseUrl` variable and test scripts that auto-capture Employee/Admin JWTs and
   the last created ticket ID.
+
+## Project Demo
+
+**Live Demo:** deskflow-ebon.vercel.app
+
+## Author
+
+**Joyce Sellwane Mosia**
